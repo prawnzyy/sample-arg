@@ -1,0 +1,39 @@
+:root {
+    align-content: center;
+    justify-content: center;
+}
+
+.Main {
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.Rejected {
+    display: none;
+    color: red;
+}
+
+.Hidden {
+    color: white;
+    font-size: 25px;
+    text-align: right;
+    position: absolute;
+    bottom: 20%;
+    right: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.h2 {
+    align-items: center;
+    align-content: center;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 50%;
+}
