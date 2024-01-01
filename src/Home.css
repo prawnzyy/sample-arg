@@ -1,6 +1,9 @@
-:root {
-    align-content: center;
-    justify-content: center;
+body {
+    background: url('../public/butterfly.png') no-repeat center center fixed;
+    background-size: contain;
+    align-items: center;
+    justify-items: center;
+    margin: auto;
 }
 
 .Main {
@@ -35,5 +38,5 @@
     justify-content: center;
     flex-direction: column;
     text-align: center;
-    width: 50%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }

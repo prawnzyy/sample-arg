@@ -5,7 +5,7 @@ import "./Home.css"
 function checkPassword () {
   var value = document.getElementById('fname').value
   if (value === 'LaPrawn') {
-    window.location.href = "/to-sign"
+    window.location.href = "/second"
   }
   else {
     document.getElementById("Reject").style.display="block"
@@ -29,12 +29,12 @@ function Home() {
         </div>
         <h2>
           So this is juSt a very simple arg, no funny tricks, trust me on tHis one.<br></br>
-                    All you gotta do is to log in wIth a password.<br></br>
-                   What password is for you to Figure out and for me to enjoy.<br></br>
-                  But i can say this, everything is quite important.<br></br>
+          All you gotta do is to log in wIth a password.<br></br>
+          What password is for you to Figure out and for me to enjoy.<br></br>
+          But i can say this, everyThing is quite important.<br></br>
         </h2>
         <div className='Hidden'>
-          OdSxgcw
+          OdSudzq
         </div>
     </div>
   )
