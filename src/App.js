@@ -1,8 +1,8 @@
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import './App.css';
-import Home from './Home';
-import Found from './Found';
-import Second  from './Second';
+import Home from './pages/Home';
+import Found from './pages/Found';
+import Second  from './pages/Second';
 import Tallies from './Images/Tallies';
 import Grid from './Images/Grid';
 

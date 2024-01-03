@@ -14,6 +14,7 @@ function checkPassword () {
 
 function Home() {
   return (
+    <div className='background'>
     <div className='Main'>
       <h1>Welcome!</h1>
         <div className='Main-input'>
@@ -36,6 +37,7 @@ function Home() {
         <div className='Hidden'>
           OdSudzq
         </div>
+    </div>
     </div>
   )
 }
