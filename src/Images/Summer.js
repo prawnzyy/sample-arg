@@ -1,13 +1,13 @@
 import React from 'react'
 import "./Center.css"
 
-function Tallies() {
+function Summer() {
   return (
     <div className='main'>
-        <img src='tallies.png' alt ="" className='center'>
+        <img src='ey.jpg' alt ="" className='center'>
         </img>
     </div>
   )
 }
 
-export default Tallies
+export default Summer

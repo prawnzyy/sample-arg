@@ -4,7 +4,7 @@ import "./Second.css"
 function checkPassword () {
     var value = document.getElementById('fname').value
     if (value === 'lone') {
-        window.location.href = "/end"
+        window.location.href = "/third"
     }
     else {
         document.getElementById("Reject").style.display="block"

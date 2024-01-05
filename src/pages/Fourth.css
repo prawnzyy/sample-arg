@@ -1,0 +1,23 @@
+.Spring {
+    position: absolute;
+    bottom: 25%;
+    right: 25%;
+}
+
+.Summer {
+    position: absolute;
+    bottom: 75%;
+    right: 75%;
+}
+
+.Autumn {
+    position: absolute;
+    bottom: 75%;
+    right: 25%;
+}
+
+.Winter {
+    position: absolute;
+    bottom: 25%;
+    right: 75%;
+}

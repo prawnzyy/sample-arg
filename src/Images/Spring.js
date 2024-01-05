@@ -1,13 +1,14 @@
 import React from 'react'
 import "./Center.css"
 
-function Tallies() {
+function Spring() {
   return (
+
     <div className='main'>
-        <img src='tallies.png' alt ="" className='center'>
+        <img src='Tz.png' alt ="" className='center'>
         </img>
     </div>
   )
 }
 
-export default Tallies
+export default Spring
